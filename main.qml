@@ -4,7 +4,6 @@ import QtQuick.Controls 1.3
 import QtQuick.Window 2.2
 import QtQuick.XmlListModel 2.0
 import QtWebView 1.0
-//import QtWebKit 3.0
 
 ApplicationWindow {
     title: qsTr("xRSS")
